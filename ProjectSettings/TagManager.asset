@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Movingplatform
+  - Border
+  - Person
+  - Water_bullet
+  - Jum_Border
+  - WaterGenerator_box
+  - WaterGenerator_box1
+  - Respawn1
+  - WaterGenerator_box2
+  - TiredPerson
+  - TiredPerson1
+  - TiredPerson2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - BackGround_Stuff
+  - 
+  - Person
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2278645921
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Person
+    uniqueID: 1042622245
+    locked: 0
+  - name: Player
+    uniqueID: 2653757463
+    locked: 0

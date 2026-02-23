@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 3342d6cfb5dc1e74a9ed9f4835a9ea40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 60
+        width: 121
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fde4419204e0543ab2bd2996c01728
+      internalID: -1053340774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bd8bb95a54e54083a8517783c39da
+      internalID: 797862820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e123d230f20be94daeb3ccdb7c17c19
+      internalID: 606474142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46470d011e3f30043b6a33b99aeb830d
+      internalID: 157474291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742c049f8a495242b35b880f2590331
+      internalID: -960822547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca921ef2a7ca1ff459bf666989b1a452
+      internalID: -97552697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24f5edecff9bd4a98b690f0958b800
+      internalID: -1048283256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f595e0c9be4ff4aa999cbae794d731
+      internalID: -1287753868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9627fe5b818b14aa0d187a796e8887
+      internalID: -109944928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1c85132c48234cafbac50a49c53b6
+      internalID: 491537426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2cdaf20fba19418fb350d6357c70e
+      internalID: -2031592680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1650a4eda7c7ff54b86e85d6ed03ab7a
+      internalID: -146414210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edae9d6361011a46973aa37c873cbef
+      internalID: 517123177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec10156c7fa2448bebb3cc621dc971
+      internalID: 718140805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3bdfa768395b743a6fe338395bfe0c
+      internalID: 1607394072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc55b638c0327a4d9c114ecf77bef3f
+      internalID: 522016512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69635a71592742b4e9a074fd2c9cc00f
+      internalID: 1138260511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8ab83f32755246b30b80a560937f4
+      internalID: 926258784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1dc73c6ec0b6498c188b73e33f90d
+      internalID: 1860485130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_0: -1053340774
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_1: 797862820
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_10: -2031592680
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_11: -146414210
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_12: 517123177
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_13: 718140805
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_14: 1607394072
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_15: 522016512
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_16: 1138260511
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_17: 926258784
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_18: 1860485130
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_2: 606474142
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_3: 157474291
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_4: -960822547
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_5: -97552697
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_6: -1048283256
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_7: -1287753868
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_8: -109944928
+      lightning-pixel-icon-260nw-2654620531-no-bg-preview (carve.photos)_9: 491537426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

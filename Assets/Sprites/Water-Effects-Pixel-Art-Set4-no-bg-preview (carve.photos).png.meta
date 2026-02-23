@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: f05f0607feb98e9428be3ba60dcdcf61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 681
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855588d1744fe841b79a2c95d92fcac
+      internalID: -619147117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 704
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5fe9551f74ab468ef0d1a19e8d23f
+      internalID: -594862331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 698
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2c01773fecff499ab8538264e04ed
+      internalID: 1122876236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 695
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc25fda6e98134c87a502828ff03bf
+      internalID: 1206993863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 687
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95a72f81a1ef0499ba1c875868a43f
+      internalID: 1217318710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 678
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc33a83120c72b4586e9a1042fdd7b2
+      internalID: -485092733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 677
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb104b74724de4fb7f76d9e5d9d35f
+      internalID: 650477431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 676
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b47d97ba74c44fbddfaef1487f686
+      internalID: 739909561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_10
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 676
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0044d8e64ffb4ca468587383a3c79f1f
+      internalID: 1526711872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 694
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50bc8a7b53d68b4789a17d6da5ada7a
+      internalID: 703793227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_12
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 465
+        width: 111
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4344a1ddad75baa4ca99c2ebc4a22c2b
+      internalID: -617764338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 608
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040cdacd9f53cc4dbdc014219265fcf
+      internalID: 1325008507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_14
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 453
+        width: 140
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0031cfe3380e44c86cd4f618f799c3
+      internalID: -791878966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 485
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075c03a92758f440a867d73ca764182
+      internalID: -809334706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_22
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 591
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21251156d3f7f64c87a19a03671b11c
+      internalID: -1504745739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 498
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8baef1f08e559449ae96a8b9702022
+      internalID: 1993824828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 492
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad669a1456b1d45b98199e8a87ff11
+      internalID: -1845234231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 451
+        width: 93
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a77d94f04d5da4ab287336fa8a6753
+      internalID: -667905403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_27
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 580
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09bd7e70b00db40840c3855d776f86
+      internalID: 1249140283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_28
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 564
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de56a6d572e6c409c3cce08dde01d4
+      internalID: 1777827639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 543
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19b5351b86dbc43affdcbb63a4d92b
+      internalID: 662115524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_34
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 551
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e0472a92372b42ba36ab2a0f07426
+      internalID: -560246008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_36
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 494
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b65dd0c26d8bb4bb8f89ea62e15ff9
+      internalID: 435420694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_37
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 500
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7737db6ca87d3f4e8f0c9efffce4ce4
+      internalID: -1957365597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 467
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821dd8d54e2c1c4292a72f5664a8b35
+      internalID: -1527083545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_39
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 449
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcb5c4a37b3cd48ba1cac7e7ab45ab
+      internalID: 797349810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_40
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 449
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eed54fece9e6949a2905adfd4297ab
+      internalID: 1724866156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 413
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec355684a44bae74ab65c7165e19680d
+      internalID: -1523673381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 397
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad095966edcbba5468ba3c075b4ae82f
+      internalID: -2144304217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452ddfef5f0132499270c9111fc9976
+      internalID: -1652701024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 350
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4dc0df8004ae4db9880ea57279119
+      internalID: -358571194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_45
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 356
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78752f4dee2d4345abba7013dc477f9
+      internalID: -744762096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 301
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cce20090e7b3fd43a64b8a884ddd524
+      internalID: -1363910417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_47
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 299
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a0b33f56370945a8a0bed9a12c596
+      internalID: -1542786846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_48
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 323
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d7910dc6258f4da9371176313f490
+      internalID: 1489802866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_49
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 329
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ed17c23eed09439442eae286a2e90
+      internalID: 1274794307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 316
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33920c281dc25034f98c5fdb78d55dfd
+      internalID: -830109094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 282
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734d6bc6e128584e94ce9537ad120bf
+      internalID: 811294722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496298a3df22f534abacc70904f08e05
+      internalID: -1369623213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 282
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c33cceb85e7e4789e292ef8e79ddb
+      internalID: 146600277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 282
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eedf78afe37468418ce272c6f7da899
+      internalID: 2112461737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_55
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 276
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a6a4ba03609c499137853cc809f50
+      internalID: -1586350947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79a8ddf63b35149b7fb05292cd7fa9
+      internalID: -894167047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_57
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 189
+        width: 362
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b2b86aa6f1b5545bcceebbc5d0db6e
+      internalID: 165604644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 60
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01797ce13cd89f94bb96538fe1badc3e
+      internalID: 484918594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5881b3429ba9e42aac8fdcc998732a
+      internalID: -202854628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_60
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 54
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f28ba4a990af428b52398136173df
+      internalID: 1200943008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee86609d2f4f242b5faef5ef3bfabb
+      internalID: 1780227893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_62
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 45
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a8b1c199964d46987eb1f8a03951b
+      internalID: 984721821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 52
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66735e501448ad14fad222e74b34d9d4
+      internalID: 1419432616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 45
+        width: 53
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdf9e62eb5b9442b7ce2a5ead32879
+      internalID: 734778483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_65
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 43
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f99cc7f1f37144aa98bdfaa922f62
+      internalID: -138822481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_66
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 45
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e81c6420543d47bc0e25e76a9e703
+      internalID: -1931479317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_67
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 49
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9a24a62b0931943b920a98250e1096
+      internalID: 1992166369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_68
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 53
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fb676494f73b4ab096c3f7e8a7920
+      internalID: -1854818883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_69
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 58
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b6b0043a60bb4db229c7cf59098c1
+      internalID: -1659670514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_70
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 56
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafdd9fc2af026c44aed56b42763c84f
+      internalID: 183312731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_71
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 50
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62870232f18ccfd4489767fa9a165ce3
+      internalID: 229449676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_0: -619147117
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_1: -594862331
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_10: 1526711872
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_11: 703793227
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_12: -617764338
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_13: 1325008507
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_14: -791878966
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_15: -766813214
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_16: 413632239
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_17: -1055402536
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_18: -809334706
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_19: 1024387495
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_2: 1122876236
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_20: 973352580
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_21: -880559446
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_22: -1504745739
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_23: 1993824828
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_24: -1845234231
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_25: 2034107789
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_26: -667905403
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_27: 1249140283
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_28: 1777827639
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_29: -278898997
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_3: 1206993863
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_30: 662115524
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_31: -562488446
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_32: -1214496399
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_33: 1390769482
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_34: -560246008
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_35: -883671996
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_36: 435420694
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_37: -1957365597
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_38: -1527083545
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_39: 797349810
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_4: 1217318710
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_40: 1724866156
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_41: -1523673381
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_42: -2144304217
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_43: -1652701024
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_44: -358571194
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_45: -744762096
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_46: -1363910417
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_47: -1542786846
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_48: 1489802866
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_49: 1274794307
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_5: -1230448691
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_50: -830109094
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_51: 811294722
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_52: -1369623213
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_53: 146600277
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_54: 2112461737
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_55: -1586350947
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_56: -894167047
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_57: 165604644
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_58: 484918594
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_59: -202854628
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_6: -485092733
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_60: 1200943008
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_61: 1780227893
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_62: 984721821
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_63: 1419432616
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_64: 734778483
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_65: -138822481
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_66: -1931479317
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_67: 1992166369
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_68: -1854818883
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_69: -1659670514
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_7: -1199354342
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_70: 183312731
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_71: 229449676
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_8: 650477431
+      Water-Effects-Pixel-Art-Set4-no-bg-preview (carve.photos)_9: 739909561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
